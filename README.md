@@ -1,2 +1,2 @@
 # thispersondoesnotexist-butinterminal
-this text image data from https://thispersondoesnotexist.com/ and displays it in terminal
+this takes image data from https://thispersondoesnotexist.com/ and displays it in terminal
