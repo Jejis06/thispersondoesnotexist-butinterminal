@@ -1,5 +1,5 @@
 #ignacy Bu
-from colorit import init_colorit, background
+from colorit import * 
 from PIL import Image
 import requests,os
 
